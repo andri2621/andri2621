@@ -31,6 +31,7 @@ Learn more [about me](https://awandri.com/about).
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
 
 #### 🎨 Frontend
+![Taro](https://img.shields.io/badge/Taro-000000?style=plastic&logo=taro&logoColor=white)
 ![TCSAS](https://img.shields.io/badge/TCSAS-0052D9?style=plastic&logo=tencent&logoColor=white)
 ![WeChat Mini Program](https://img.shields.io/badge/Mini_Program-07C160?style=plastic&logo=wechat&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
