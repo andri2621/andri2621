@@ -22,7 +22,7 @@ Learn more [about me](https://awandri.com/about).
 
 ## ⚡ What I'm Currently Working On
 - 💻 Building modern, highly interactive web applications.
-- 🤖 Exploring AI-assisted development (Claude Code CLI) to optimize frontend workflows.
+- 🤖 Exploring AI-assisted development to optimize frontend workflows.
 - 📱 Developing Mini Apps within the **Tencent Cloud Super App as a Service (TCSAS)** ecosystem.
 
 ## 💻 Tech Stack:
