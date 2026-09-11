@@ -1,5 +1,5 @@
 # Hi 👋, I'm Andi Setiawan
-**Frontend Developer | React Ecosystem | TCSAS Mini Apps Explorer**
+**Frontend Developer**
 
 I'm a passionate Frontend Developer from Indonesia with a strong focus on building scalable web applications. Currently, I work as a full-time remote Frontend Developer at [CodeID](https://www.code.id/). 
 
